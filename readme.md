@@ -43,7 +43,6 @@ Salin folder proyek Anda ke dalam direktori root server lokal. Untuk XAMPP, bias
 ![3e3a34ad-48d9-411d-aa88-897892acb6b8](https://github.com/user-attachments/assets/0f52da18-ac60-499b-8f3c-1b2c3c1f4ffd)
 
 ---
-X
 
 - Halaman Admin
 ![e6d51492-b381-47ff-98a9-4280680f48bc](https://github.com/user-attachments/assets/37d6a9c6-58b7-46e5-8098-b39e3096adb4)
