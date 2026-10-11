@@ -9,7 +9,6 @@ Akses phpMyAdmin melalui browser Anda. Biasanya URL-nya adalah http://localhost/
 - Klik tombol "Create".
 
 
-
 Langkah 2 : Mengimpor File SQL
 -----------
 2.1 Pilih Database:
@@ -46,5 +45,5 @@ Salin folder proyek Anda ke dalam direktori root server lokal. Untuk XAMPP, bias
 
 - Halaman Admin
 ![e6d51492-b381-47ff-98a9-4280680f48bc](https://github.com/user-attachments/assets/37d6a9c6-58b7-46e5-8098-b39e3096adb4)
-
+h
 
